@@ -1,5 +1,9 @@
 ---
-title: "About"
+title: "Madison"
 ---
 
-About this site
+## About Me
+
+- I am a current graduate student at Cornell University seeking my Masters of Professional Studies (MPS) in Natural Resources and The Environment with a concentration in Forest Ecology.
+- My previous work has included invasive species management and ecosystem restoration in Oahu, Hawaii.
+- I plan to go on a 4-6 month exhibition in June 2027 to kayak the entire Missouri River from source (Montana) to sea (Gulf of Mexico)

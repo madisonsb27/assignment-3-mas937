@@ -1,7 +1,20 @@
 ---
-title: "assignment-3-mas937"
+title: "Sequoia sempervirens"
 ---
 
-This is a Quarto website.
+::: {style="text-align:center"}
+## The World's Tallest Tree
+:::
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![](https://irp.cdn-website.com/4ef20bc3/dms3rep/multi/IMG_0587.jpg)
+
+#### **Pictured above is the world's tallest tree, *Sequoia sepervirens*. It is only found on the western coast of the U.S. in very small populations. Conservation of its limited habitat is extremely critical.**
+
+
+
+
+### Collaborators:
+
+- Madison Schneider: <https://github.com/madisonsb27/assignment-3-mas937.git>
+
+- Nico Piccolo:
