@@ -2,13 +2,11 @@
 title: "Sequoia sempervirens"
 ---
 
-
 ```{=html}
 <style>
 h1, h2, h3 { text-align: center;}
 </style>
 ```
-
 
 ::: {style="text-align:center"}
 ## The World's Tallest Tree
@@ -18,8 +16,11 @@ h1, h2, h3 { text-align: center;}
 
 ###### **Pictured above is the world's tallest tree, *Sequoia sepervirens*. It is only found on the western coast of the U.S. in very small populations. Conservation of its limited habitat is extremely critical.**
 
+### Sequoia Fun Facts:
 
+- The bark of a Sequoia tree is thick with a spongy texture containing protective compounds that allows the tree to be very fire resistant. Since the western coast of the U.S. has a rich history of fire sweeping the landscape, this characteristic has contributed to the tree's persistence.
 
+- Some famous Sequoias in the U.S. include General Sherman (Sequoia National Park), General Grant (King's Canyon National Park), and Grizzly Giant (Yosemite National Park).
 
 ### Collaborators:
 
